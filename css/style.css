@@ -1,0 +1,29 @@
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-31 { font-size: 31px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+/*header style*/
+#header{
+    background-color: #333333 !important;
+    color: #fff;
+    height: 78px;
+    padding-top: 10px;
+}
+#header #nav {
+    margin-top: 13px !important;
+   
+}
+#header a{
+    color: #fff;
+}
+a{
+    color: #333333;
+}
+.rightel{
+    height: 1100px;
+}
+.maincss{
+    margin-top: 30px;
+}

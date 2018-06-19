@@ -1,0 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION['shomare'])){
+    header("Location:./indexx.php");
+    exit();
+}else{
+    header("Location:./login.php");
+    exit();
+}
